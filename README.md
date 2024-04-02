@@ -42,7 +42,9 @@
 
 ## 技术 
 1. 算法霸权：数学杀伤性武器的威胁，by [美] 凯西·奥尼尔 2024年4月
+1. Structure and Interpretation of Computer Programs，by Haroled Abelson，2023年10月
 1. 计算机是怎样跑起来的，by [日] 矢泽久雄，2023年9月
+1. The Little Book of Deep Learning，by Francios Fleuret，2023年6月
 1. :+1::+1:黑客与画家，by [美] Paul Graham，2023年5月
 1. Growth：全栈增长工程师指南，by phodal，2023年4月
 1. Github 漫游指南，by phodal，2023年2月
@@ -65,10 +67,13 @@
 1. Conversational American English，by McGraw-Hill's，2023年11月
 1. 魔鬼搭讪学，by 魔鬼咨询师，2023年11月
 1. 魔鬼聊天术，by 阮琦，2023年11月
+1. English Through Pictures, by I.A.RICHARDS、CHIRSTINE M.GIBSON，2023年11月
 1. 宇宙从何而来，by 傅渥成，2023年11月
 1. :+1::+1:生活的艺术家，by 李小龙，2023年9月
 1. :+1::+1:如何有效整理信息，by [日] 奥野宣之，2023年9月
+1. Ground-Up Computer Science by yin wang，2023年8月
 1. :+1::+1:The Almanck of Naval Ravikant, Eric Jorgenson，2023年7月
+1. 目光，by 陶勇，2023年6月
 1. 相信，by 蔡磊，2023年6月
 1. 开窍，by 所长林超，2023年5月
 1. 上海交通大学生存手册，2023年5月
@@ -78,7 +83,8 @@
 1. 学习究竟是什么，by 万维钢，2023年5月
 1. 高手：精英的见识和我们的时代，by 万维钢，2023年5月
 1. 智识分子：做个复杂的现代人，by 万维钢，2023年5月
-1. 把时间当作朋友，by 李笑来，2023年4月
+1. :+1::+1:西藏生死书，by 索甲仁波切，2023年5月
+1. :+1:把时间当作朋友，by 李笑来，2023年4月
 1. :+1: 任正非文集，2023年4月
 1. :+1:six-word memoirs，2023年4月
 1. 也许你该找个人聊聊，by [美] 洛莉·戈特利布，2023年3月
